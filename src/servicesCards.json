@@ -1,0 +1,22 @@
+[
+    {
+        "id":0,
+        "cardTitle":"Grooming",
+        "cardContent":"Sevimli heyvanlarınız üçün gözəllik salonumuz xidmət göstərir"
+    },
+    {
+        "id":1,
+        "cardTitle":"Baytar",
+        "cardContent":"İşinin peşəkarı veterinerlərimiz 7/24 xidmətinizdədir."
+    },
+    {
+        "id":2,
+        "cardTitle":"Gəzinti",
+        "cardContent":"Sevimli heyvanlarınızın günlük gəzintisini bizə həvalə edin"
+    },
+    {
+        "id":3,
+        "cardTitle":"Bağça",
+        "cardContent":"Özəl günlərinizdə dostlarınızı bizə etibar edin"
+    }
+]
